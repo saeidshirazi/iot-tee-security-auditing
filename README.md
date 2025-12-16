@@ -196,7 +196,7 @@ This provides:
 | This Prototype | Real TEE (ARM TrustZone / OP-TEE) |
 |---------------|-----------------------------------|
 | Python processes | Secure & Normal Worlds |
-| Pipe (`|`) | Secure Monitor Calls (SMC) |
+| Pipe  | Secure Monitor Calls (SMC) |
 | JSON events | Shared memory |
 | Audit log file | Secure storage (RPMB) |
 | Policy logic | Trusted Application |
