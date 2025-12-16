@@ -136,6 +136,27 @@ xdg-open dashboard.html   # Linux
 - ✔ Clear visual explanation of attack causes
 
 ---
+## 📸 Dashboard Screenshots
+
+### 🧩 Panel 1 — Security Events Overview
+This panel shows the event table with:
+- physical vs reported state
+- network behavior
+- multi-alert classification
+- pagination and filtering
+
+![Panel 1 – Dashboard Overview](screenshots/Panel1.png)
+
+---
+
+### 🔗 Panel 2 — Provenance & Causality View
+This panel visualizes:
+- causal relationships between events
+- physical state, reported state, and network actions
+- triggered security alerts
+- multi-stage attack patterns
+
+![Panel 2 – Provenance Graph](screenshots/Panel2.png)
 
 ## 🔍 Understanding Alerts
 
